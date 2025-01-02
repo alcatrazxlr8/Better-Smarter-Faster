@@ -70,8 +70,8 @@ To run the project, open the provided Jupyter Notebook (`Better_Smarter_Faster.i
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/yourusername/Better_Smarter_Faster.git
-   cd Better_Smarter_Faster
+   git clone https://github.com/alcatrazxlr8/Better_Smarter_Faster.git
+   cd Better_-_Smarter_-_Faster
    ```
 2. Open the Jupyter Notebook.
    ```bash
